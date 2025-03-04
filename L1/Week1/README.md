@@ -42,3 +42,7 @@ During this program, I want to learn how to code and analyze data well. I also w
 ---
 
 *I understand that this document will be used to track my progress throughout the program and may be referenced during career counseling sessions. I commit to working toward these goals during the Traders@SMU Alpha Program.*
+
+
+![Screenshot 2025-03-03 233452](https://github.com/user-attachments/assets/d2febd32-08b4-409b-8c4c-95b6652743de)
+This is my PYTHON setup 
